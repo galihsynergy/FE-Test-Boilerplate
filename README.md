@@ -1,3 +1,7 @@
+> **Please do not fork this repository publicly.** Clone it to your own machine and
+> work locally. A public fork, public repo, or gist makes your solution visible to
+> other candidates.
+
 # Boilerplate Repository for Project Initialization
 
 Welcome to the Boilerplate Repository! This repository serves as a foundational template to kickstart your projects, whether you're working on web applications, API services, or other software endeavors. Our boilerplate is designed to help you quickly set up complex projects by providing a structured foundation, best practices, and a scalable architecture to build upon.
